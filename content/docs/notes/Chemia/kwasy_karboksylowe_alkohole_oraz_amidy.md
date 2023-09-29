@@ -1,7 +1,7 @@
 # **Kwasy Karboksylowe Alkohole oraz Amidy**
 
 {{< hint info >}}
-Ta notatka jest kowertowana z innego programu więc nie będzie wyglądało dobrze. Następne notatki powinny wyglądać lepiej.
+Ta notatka jest kowertowana z innego programu więc nie wygląda tak jak powinna. Następne notatki powinny wyglądać lepiej.
 {{< /hint >}}
 
 ---
