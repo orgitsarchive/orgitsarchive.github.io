@@ -1,4 +1,4 @@
-# Prawo odbicia światła i załamania fali
+# Prawo odbicia światła, zwierciadła, załamania i rozpraszanie fali
 
 ---
 
@@ -32,9 +32,10 @@ Załamanie fali następuje wtedy, **gdy fala przechodzi przez granicę dwóch o�
 
 Promień padający załamany, i prostopadła wystawiona w punkcie padania, leżą w jednej płaszczyźnie.
 
+*(powstały obraz jest powiększony, odwrócony i rzeczywisty.)*
+
 ![Imgur](https://i.imgur.com/2A3MzcA.jpg)
 
-*Powstały obraz jest powiększony, odwrócony i rzeczywisty.*
 
 ---
 
