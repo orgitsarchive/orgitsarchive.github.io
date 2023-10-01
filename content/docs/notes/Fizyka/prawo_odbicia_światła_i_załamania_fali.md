@@ -7,7 +7,7 @@
 {{< columns >}}
 Zgodnie z prawem odbicia, gdy kąt odbicia i kąt padania znajdują się na jednej płaszczyźnie, to są one sobie równe. Innymi słowy, jeżeli **promień światła pada na powierzchnię innego ośrodka, następuje jego odbicie. Kąt padania jest równy kątowi odbicia.**
 <--->
-![illustration](https://media.discordapp.net/attachments/508354456392302603/1157578839145328670/Artboard_2-100.jpg?ex=65191ece&is=6517cd4e&hm=6148dac78c06747736b18f2674be8108eefb39e5487f721ae69c66f10d232c8f&=)
+![Imgur](https://i.imgur.com/TKWE0wG.jpg)
 
 {{< /columns >}}
 
@@ -20,7 +20,7 @@ Załamanie fali następuje wtedy, **gdy fala przechodzi przez granicę dwóch o�
 
 <--->
 
-![illustration](https://media.discordapp.net/attachments/508354456392302603/1157588541421932604/Artboard_2-100.jpg?ex=651927d7&is=6517d657&hm=3757c163791ae13c9bd665a75cd87152817e96c92a008f8f3ead485182abe7ae&=)
+![Imgur](https://i.imgur.com/KNjNeNw.jpg)
 
 {{< /columns >}}
 
