@@ -92,4 +92,4 @@ Mocznik to najbardziej znany amid również znany jako **di-amid kwasu węgloweg
 
 ### Reakcje z zasadami oraz kwasami
 
-![Imgur](https://i.imgur.com/Kzjlk8Z.png)
+![Imgur](https://i.imgur.com/aQyKYvY.png)
