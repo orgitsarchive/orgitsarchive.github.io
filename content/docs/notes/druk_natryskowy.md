@@ -51,11 +51,11 @@ Wgłębiając się bardziej w zastosowania, tego druku, jesteśmy w stanie rodzi
 ## Druk na tekstyliach    
 Druk atramentowy ink-jet ma znaczący udział w **przemyśle tekstylnym**. To dzięki niemu możemy spersonalizować nasze ubrania, tworzyć unikatowe wzory na tkaninach i modzie oraz produkcji tkanin ozdobnych. Druk ink-jet **oferuje precyzję** i **możliwość drukowania na różnorodnych materiałach tekstylnych**, co otwiera drzwi do kreatywności w **dziedzinie mody**.
 <--->
-![img](https://artkoszulka.pl/pol_pl_Koszulka-dziecieca-AMONG-US-Shhhhhhh-12462_3.jpg)
+![img](https://media.discordapp.net/attachments/778940309362704395/1163698034589319188/pol_pl_Koszulka-dziecieca-AMONG-US-Shhhhhhh-12462_3.jpg?ex=6540853f&is=652e103f&hm=30d97d9c57403c3dd620ce187c26920d79c0050c6e4a80619c78a027f068aad2&=&width=944&height=614)
 {{< /columns >}}
 
 {{< columns >}}
-![img](https://ecsmedia.pl/c/kubek-what-the-shell-355-ml-designworks-ink-w-iext122528917.jpg)
+![img](https://media.discordapp.net/attachments/778940309362704395/1163698034870329344/kubek-what-the-shell-355-ml-designworks-ink-w-iext122528917.jpg?ex=6540853f&is=652e103f&hm=99d1a6658dd6b00ea3e41982a01ab3cc1c8239adc29b400df1be52ff3ed35762&=&width=314&height=314)
 <--->
 ## Druk na ceramice
 W przemyśle ceramicznym druk ink-jet jest **nieoceniony**. Dzięki tej technologii możemy tworzyć **niezwykle precyzyjne i kolorowe wzory** na ceramice. To jest szczególnie widoczne w produkcji **płytek ceramicznych, ceramicznych naczyń i ozdób**. Druk ink-jet umożliwia niemal nielimitowane możliwości projektowania i personalizacji.
@@ -65,7 +65,7 @@ W przemyśle ceramicznym druk ink-jet jest **nieoceniony**. Dzięki tej technolo
 ## Druk na opakowaniach
 Kolejnym obszarem zastosowań druku ink-jet są **opakowania**. To technologia często wykorzystywana w przemyśle opakowaniowym. Pozwala na **nadruk dat ważności**, kodów kreskowych, grafiki i informacji na **opakowaniach spożywczych i farmaceutycznych**. To oznacza, że możemy mieć opakowania, na których łatwo jest śledzić termin przydatności do spożycia lub uzyskać informacje o produkcie.
 <--->
-![img](https://ebs-inkjet.pl/wp-content/uploads/2020/01/HANDJET-EBS-250-druk-na-workach-mi%C4%99kkich-1336x750.jpg)
+![img](https://media.discordapp.net/attachments/778940309362704395/1163698009436069998/image.png?ex=65408539&is=652e1039&hm=6ff47c866aeebcbe67383a61f6495cd5ec4804c4b952cc0f80f45335f7bb49cc&=&width=749&height=422)
 {{< /columns >}}
 
 # Rodzaje Atramentów 
