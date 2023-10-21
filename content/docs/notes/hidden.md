@@ -1,5 +1,3 @@
 ---
 bookHidden: true
 ---
-
-# yes
