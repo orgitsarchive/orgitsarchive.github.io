@@ -19,7 +19,7 @@ W na tym etapie dodajemy grupy funkcyjne, które są wypisane w nazwie. Gdzie --
 
 ### III - Gotowy kwas jabłkowy
 
-![Imgur](https://i.imgur.com/ynJtIix.png)
+![Imgur](https://i.imgur.com/ukzSgyz.png)
 
 ## Kwas Mlekowy
 
