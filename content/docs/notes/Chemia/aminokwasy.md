@@ -37,7 +37,7 @@ Ze względu na swoją ampoteryczność, aminokwasy mogą występować w trzech r
 ---
 
 # Wzory i nazwy aminokwasów 
-
+### Tabela
  Pełna tabela aminokwasów, ich nazw, wzorów i symboli
 
 ![Imgur](https://i.imgur.com/WjLVYyW.png)
