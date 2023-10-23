@@ -11,15 +11,15 @@ W celu ułatwienia sprawy, podzielimy pojedyńcze etapy na oddzielne etapy i we�
 
 ### I - Węglowodoór
 Zaczynając od zapisania podstawowego węglowodoru, najlepiej jest zapisac lokanty aby później zobaczyć gdzie dopisać poszczególne grupy funkcyjne. *(jest to jednak opcjonalne)*
-![Imgur](https://i.imgur.com/I3x8tl5.png)
+![Imgur](https://i.imgur.com/IRBWb2U.png)
 
 ### II - Lokanty i grupy funkcyjne
 W na tym etapie dodajemy grupy funkcyjne, które są wypisane w nazwie. Gdzie -- 2-hydroksykwasy oznacza że grupa funkcyjna -OH jest przywiązana do drugiego węgla. W przypadku 1,4-diowy oznacza że będą 2 (di) grupy -COOH przy lokantach 1 oraz 4. Musimy również wyrównać liczbe wiązań naszych węgli (zawsze muszą być 4 wiązania), z tego powodu skresliliśmy pare atomów wodoru (H). *(skreślania się nie pisze, jest to tak zapisane na cel pokazowy.)*
-![Imgur](https://i.imgur.com/5DGYCsj.png)
+![Imgur](https://i.imgur.com/J6HY21i.png)
 
 ### III - Gotowy kwas jabłkowy
 
-![Imgur](https://i.imgur.com/ukzSgyz.png) 
+![Imgur](https://i.imgur.com/8UMPj8G.png)
 
 ## Kwas Mlekowy
 
